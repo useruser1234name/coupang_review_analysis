@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Virtual environment
+venv/
+.venv/
+
+# IDEs
+.idea/
+.vscode/
+
+# Logs
+logs/
+*.log
+
+# Environment variables
+.env
+
+# Data files (if not meant to be version controlled)
+*.csv
+*.xlsx
+*.db
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Gradle cache
+.gradle/
